@@ -7,7 +7,7 @@ function game() {                                                               
      let userScore: any = document.querySelector(".user p");
         let expertScore :any= document.querySelector(".expert p");
              userScore.textContent = userScore;
-                 expertScore.textContent = expertScore;
+             expertScore.textContent = expertScore;
           }                                                                                                             //method update definition ends
 
   function compare(userChoice: string, expertChoice: string):void {                                                     //compare method definition starts
