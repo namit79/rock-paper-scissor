@@ -1,0 +1,81 @@
+section{
+    background-color: rgb(76, 0, 255);
+}
+.heading{
+   height: fit-content; 
+font-size: 70px;
+font-style: inherit;
+color: rgb(244, 240, 248);
+
+
+}
+.image
+{
+    position: absolute;
+    top: 30%;
+    left: 33%;
+}
+.link
+{
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    
+    position: absolute;
+    top: 90%;
+    left: 48%;
+    align-items: center;
+   cursor:pointer;
+    
+}
+.user-hand
+{   
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    height: 300px;
+    width: 300px;
+}
+.expert-hand
+{ 
+    position: absolute;
+    top: 20%;
+    right: 20%;
+    height: 300px;
+    width: 300px;
+}
+.user{
+    position: absolute;
+    top: 60%;
+    left: 28%;
+
+
+}
+.expert{
+    position: absolute;
+    top: 60%;
+    left: 68%;
+
+}
+.user p {
+  text-align: center;
+
+    }
+    .expert p{
+        text-align: center;
+
+    }
+
+.buttons
+{
+    position: absolute;
+    top: 65%;
+    left: 43.5%;
+    cursor: pointer;
+}
+.exit
+{
+    position: absolute;
+    top: 75%;
+    left: 47%;
+}
